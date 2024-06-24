@@ -1,0 +1,9 @@
+Name: julie
+Tele: 0988-790020
+Num of People: 1
+Num of Room: 2
+Room Type: Costal Room
+Check In Date: 2022/8/15
+Check Out Date: 2022/8/16
+Price: 2000
+
